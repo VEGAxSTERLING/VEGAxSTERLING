@@ -2,7 +2,7 @@
 
 # VEGA STERLING
 
-### Cybersecurity Resercher • Pentester • Open-Source Developer
+### Cybersecurity Researcher • Pentester • Open-Source Developer
 
 *Research first. Opinion second.*
 
